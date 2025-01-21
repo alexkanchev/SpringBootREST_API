@@ -33,9 +33,9 @@ A Spring Boot REST API for managing student registrations, courses, grades, and 
 Update the database configuration in `application.properties`:
 
 ``properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/Register_db
-spring.datasource.username=postgres
-spring.datasource.password=0901
+spring.datasource.url=jdbc:postgresql://localhost:XXXX/Register_db
+spring.datasource.username=XXXX
+spring.datasource.password=XXXX
 
 ## 📂 API Endpoints
 
